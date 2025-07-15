@@ -78,18 +78,6 @@
 
 ---
 
-## 📈 GitHub статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achepin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achepin&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🚀 Выделяющие проекты
 
 ### 📱 E-commerce платформа
